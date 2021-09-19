@@ -12,11 +12,11 @@ by [`zhengkai.blog.csdn.net`](https://zhengkai.blog.csdn.net)
 
 nodejs_express_art-template
 ----
-express+art-template渲染模板以及静态文件功能。， 具体实现可以参考该文章 [【nodejs+art-template配置模板引擎】](https://zhengkai.blog.csdn.net/article/details/120378487)
+express+art-template渲染模板以及静态文件功能。使用`yarn start/npm start`开始项目。 具体实现可以参考该文章 [【nodejs+art-template配置模板引擎】](https://zhengkai.blog.csdn.net/article/details/120378487)
 
 message board 
 ----
-留言板功能 ， 具体实现可以参考该文章 [【nodejs+express留言板功能实现】](https://zhengkai.blog.csdn.net/article/details/120380820)
+留言板功能 ，使用`yarn start/npm start`开始项目。 具体实现可以参考该文章 [【nodejs+express留言板功能实现】](https://zhengkai.blog.csdn.net/article/details/120380820)
 
 
 update

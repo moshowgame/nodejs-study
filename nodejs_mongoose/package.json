@@ -1,0 +1,10 @@
+{
+  "name": "nodejs_mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhengkai.blog.csdn.net",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^6.0.5"
+  }
+}

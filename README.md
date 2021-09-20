@@ -18,6 +18,9 @@ message board
 ----
 留言板功能 ，使用`yarn start/npm start`开始项目。 具体实现可以参考该文章 [【nodejs+express留言板功能实现】](https://zhengkai.blog.csdn.net/article/details/120380820)
 
+mongoose
+----
+node.js+mongoose操作MongoDB，具体实现可以参考该文章[【Node.js+Mongoose实现MondoDB操作】](https://blog.csdn.net/moshowgame/article/details/120385968)
 
 update
 ----
@@ -26,3 +29,4 @@ update
 -------- | ----- | -----
 nodejs_express_art-template| 2021-09-18|for nodejs + express +art-template study 
 message board | 2021-09-19 |for study 留言板 , display/add message 
+mongoose | 2021-09-21 |for Mongoose操作MongoDB

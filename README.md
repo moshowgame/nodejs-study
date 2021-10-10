@@ -27,6 +27,10 @@ array-operation
 ----
 练习node.js中数组常用的方法：forEach、map、filter、every、some，具体实现可以参考该文章[【node.js中数组常用的方法：forEach、map、filter、every、some】](https://zhengkai.blog.csdn.net/article/details/120445222)
 
+write_append_log
+----
+Node.js写入和追加日志以及简单封装，具体实现可以参考该文章[【nodejs追加写入日志文件】](https://zhengkai.blog.csdn.net/article/details/120695053)
+
 update
 ----
 
@@ -36,3 +40,4 @@ nodejs_express_art-template| 2021-09-18|for nodejs + express +art-template study
 message board | 2021-09-19 |for study 留言板 , display/add message 
 mongoose | 2021-09-21 |Mongoose操作MongoDB
 array-operation | 2021-09-23 |Node.js中数组常用的方法：forEach、map、filter、every、some
+write_append_log |2021-10-11|Node.js写入和追加日志
